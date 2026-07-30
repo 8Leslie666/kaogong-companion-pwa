@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-30T01:38:31.205Z",
+  "catalog": {
+    "total": 722,
+    "national": 37,
+    "provincial": 685,
+    "regions": 34,
+    "uniquePaperIds": true,
+    "sha256": "5d5304e324bef0c3352d5f07375c3889a6ff8e747d5fd240b981165a92252bbb"
+  },
+  "builtInHistoricalPacks": [
+    {
+      "paperId": "1735356969686",
+      "title": "2025年国家公务员录用考试《行测》题（副省级网友回忆版）",
+      "questions": 135,
+      "answers": 135,
+      "answerCoverage": 1,
+      "explanationDrafts": 135,
+      "reviewStatus": "待人工复核",
+      "assets": 36,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    },
+    {
+      "paperId": "1739531137130",
+      "title": "2025年浙江省公务员录用考试《行测》题（A类）（网友回忆版）",
+      "questions": 125,
+      "answers": 125,
+      "answerCoverage": 1,
+      "explanationDrafts": 125,
+      "reviewStatus": "待人工复核",
+      "assets": 51,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    }
+  ],
+  "totals": {
+    "questions": 260,
+    "assets": 87,
+    "assetBytes": 1457205
+  },
+  "generatedPackSha256": "1ef134ee24089ef3f26d0140a615ee7b59b137062374e50ed160f77ddde2d6dc",
+  "runtimeProof": {
+    "questionId": "gkzhenti-1735356969686-q-026",
+    "screenshots": [
+      "artifacts/mobile-historical-filters.png",
+      "artifacts/mobile-historical-question.png"
+    ]
+  },
+  "verification": {
+    "unit": "18/18 passed",
+    "e2e": "4/4 passed",
+    "lint": "passed",
+    "productionBuild": "passed",
+    "offlinePrecacheEntries": 102
+  }
+}

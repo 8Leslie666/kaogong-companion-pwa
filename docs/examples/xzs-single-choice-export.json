@@ -1,0 +1,22 @@
+{
+  "response": {
+    "list": [
+      {
+        "id": 101,
+        "questionType": 1,
+        "subjectId": 1,
+        "title": "<p>这段文字意在说明什么？</p>",
+        "items": [
+          { "prefix": "A", "content": "选项一" },
+          { "prefix": "B", "content": "选项二" },
+          { "prefix": "C", "content": "选项三" },
+          { "prefix": "D", "content": "选项四" }
+        ],
+        "analyze": "<p>结合文段主旨，答案为 B。</p>",
+        "correct": "B",
+        "score": "1",
+        "difficult": 2
+      }
+    ]
+  }
+}

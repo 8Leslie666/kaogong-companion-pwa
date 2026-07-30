@@ -1,0 +1,77 @@
+{
+  "generatedAt": "2026-07-30T01:36:52.490Z",
+  "reports": [
+    {
+      "paperId": "1735356969686",
+      "title": "2025年国家公务员录用考试《行测》题（副省级网友回忆版）",
+      "entry": {
+        "id": "1735356969686",
+        "title": "2025年国家公务员录用考试《行测》题（副省级网友回忆版）",
+        "url": "https://gwy.gkzhenti.cn/paper/1735356969686",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1735356969686",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1735356969686",
+        "examType": "国考",
+        "region": "国考",
+        "year": 2025,
+        "variant": "副省级",
+        "recallEdition": true,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 135,
+      "answerCount": 135,
+      "publishedQuestions": 135,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 135,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 36,
+      "assetFailures": [],
+      "modules": {
+        "政治理论": 20,
+        "常识判断": 15,
+        "言语理解": 30,
+        "数量关系": 15,
+        "判断推理": 35,
+        "资料分析": 20
+      }
+    },
+    {
+      "paperId": "1739531137130",
+      "title": "2025年浙江省公务员录用考试《行测》题（A类）（网友回忆版）",
+      "entry": {
+        "id": "1739531137130",
+        "title": "2025年浙江省公务员录用考试《行测》题（A类）（网友回忆版）",
+        "url": "https://gwy.gkzhenti.cn/paper/1739531137130",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1739531137130",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1739531137130",
+        "examType": "省考",
+        "region": "浙江",
+        "year": 2025,
+        "variant": "A类",
+        "recallEdition": true,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 125,
+      "answerCount": 125,
+      "publishedQuestions": 125,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 125,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 51,
+      "assetFailures": [],
+      "modules": {
+        "政治理论": 10,
+        "常识判断": 10,
+        "言语理解": 30,
+        "数量关系": 20,
+        "判断推理": 40,
+        "资料分析": 15
+      }
+    }
+  ]
+}

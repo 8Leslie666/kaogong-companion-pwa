@@ -1,0 +1,41 @@
+﻿[
+    {
+        "query":  "exam pwa language:TypeScript license:mit stars:\u003e5",
+        "full_name":  "avatsaev/angular-contacts-app-example",
+        "html_url":  "https://github.com/avatsaev/angular-contacts-app-example",
+        "description":  " Full Stack Angular PWA example app with NgRx \u0026 NestJS",
+        "stars":  615,
+        "updated_at":  "2026-04-09T11:52:55Z",
+        "pushed_at":  "2023-02-12T12:55:42Z",
+        "license":  "MIT",
+        "archived":  false,
+        "fork":  false,
+        "language":  "TypeScript"
+    },
+    {
+        "query":  "exam pwa language:TypeScript license:mit stars:\u003e5",
+        "full_name":  "seanwu1105/ionic-pwa-example-moment",
+        "html_url":  "https://github.com/seanwu1105/ionic-pwa-example-moment",
+        "description":  "A sample camera app implemented with PWA and Ionic 5.",
+        "stars":  30,
+        "updated_at":  "2026-03-22T21:22:29Z",
+        "pushed_at":  "2022-11-14T06:24:29Z",
+        "license":  "MIT",
+        "archived":  true,
+        "fork":  false,
+        "language":  "TypeScript"
+    },
+    {
+        "query":  "exam pwa language:TypeScript license:mit stars:\u003e5",
+        "full_name":  "marcusbelcher/google-books-api-example",
+        "html_url":  "https://github.com/marcusbelcher/google-books-api-example",
+        "description":  "Create react app demo to show results from the Google books API",
+        "stars":  7,
+        "updated_at":  "2026-01-14T20:55:25Z",
+        "pushed_at":  "2023-01-04T13:35:27Z",
+        "license":  "MIT",
+        "archived":  false,
+        "fork":  false,
+        "language":  "TypeScript"
+    }
+]

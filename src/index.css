@@ -1,0 +1,29 @@
+:root {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "PingFang SC", "Helvetica Neue", Arial, sans-serif;
+  color: #1d1d1f;
+  background: #f5f5f7;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  --ink: #1d1d1f;
+  --ink-2: #424245;
+  --muted: #86868b;
+  --paper: #ffffff;
+  --paper-2: #f5f5f7;
+  --line: #d2d2d7;
+  --green: #0071e3;
+  --green-soft: #e8f2ff;
+  --orange: #0071e3;
+  --orange-soft: #e8f2ff;
+  --red: #ff3b30;
+  --shadow: 0 8px 30px rgba(0, 0, 0, .08);
+}
+* { box-sizing: border-box; }
+html { background: #f5f5f7; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+button, input, textarea, select { font: inherit; }
+button, label { -webkit-tap-highlight-color: transparent; }
+button { color: inherit; }
+a { color: inherit; }
+#root { min-height: 100vh; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; } }

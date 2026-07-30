@@ -1,0 +1,34 @@
+﻿{
+  "validatedAt": "2026-07-30T08:38:00+08:00",
+  "iteration": "large-bank-filtering-and-attribution",
+  "questionCount": 2397,
+  "features": [
+    "module filter",
+    "difficulty filter 1-5",
+    "question-source filter",
+    "unseen/wrong/favorite status filter",
+    "live available-count calculation",
+    "empty-result start protection",
+    "clickable source and license details",
+    "per-pack question counts"
+  ],
+  "validation": {
+    "unitTests": "14 passed",
+    "e2eTests": "3 passed",
+    "lint": "passed",
+    "productionBuild": "passed",
+    "offlineStartup": "passed",
+    "questionChunkPrecached": true,
+    "localHttpStatus": 200,
+    "lanHttpStatus": 200
+  },
+  "runtime": {
+    "desktopUrl": "http://127.0.0.1:4174/",
+    "phoneUrl": "http://192.168.31.10:4174/",
+    "listener": "0.0.0.0:4174"
+  },
+  "screenshots": [
+    "artifacts/apple-mobile-filters.png",
+    "artifacts/apple-mobile-packs.png"
+  ]
+}

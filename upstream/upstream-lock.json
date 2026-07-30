@@ -1,0 +1,42 @@
+﻿[
+    {
+        "repository":  "mindskip/xzs-mysql",
+        "url":  "https://github.com/mindskip/xzs-mysql",
+        "defaultBranch":  "master",
+        "commit":  "abd47f65ab00529e784a81776d558f3fb9565ec4",
+        "committedAt":  "2026-07-30T00:45:32Z",
+        "license":  "AGPL-3.0",
+        "starsSnapshot":  3593,
+        "snapshotAt":  "2026-07-30T09:22:00+08:00"
+    },
+    {
+        "repository":  "surveyjs/survey-library",
+        "url":  "https://github.com/surveyjs/survey-library",
+        "defaultBranch":  "master",
+        "commit":  "a4377f0e9d93c1484bbe6911fb242e79e1f45b14",
+        "committedAt":  "2026-07-28T09:49:24Z",
+        "license":  "MIT",
+        "starsSnapshot":  4818,
+        "snapshotAt":  "2026-07-30T09:22:00+08:00"
+    },
+    {
+        "repository":  "didi/xiaoju-survey",
+        "url":  "https://github.com/didi/xiaoju-survey",
+        "defaultBranch":  "main",
+        "commit":  "7f3f60aaf0626c21fbbd1315ee1f83c694b4110a",
+        "committedAt":  "2025-10-11T05:59:20Z",
+        "license":  "Apache-2.0",
+        "starsSnapshot":  3774,
+        "snapshotAt":  "2026-07-30T09:22:00+08:00"
+    },
+    {
+        "repository":  "AlliotTech/ham-exam-web",
+        "url":  "https://github.com/AlliotTech/ham-exam-web",
+        "defaultBranch":  "master",
+        "commit":  "3765e07518e7750b34ad1bef1601c97cb5e61406",
+        "committedAt":  "2026-04-15T07:06:27Z",
+        "license":  null,
+        "starsSnapshot":  333,
+        "snapshotAt":  "2026-07-30T09:22:00+08:00"
+    }
+]

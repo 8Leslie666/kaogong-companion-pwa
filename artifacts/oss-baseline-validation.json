@@ -1,0 +1,28 @@
+﻿{
+  "validatedAt": "2026-07-30T09:22:00+08:00",
+  "decision": {
+    "learnerClient": "current React + Vite PWA + Dexie + FSRS",
+    "adminAndQuestionBankUpstream": "mindskip/xzs-mysql",
+    "integrationMode": "XZS JSON compatibility adapter; optional backend later",
+    "lockedCommit": "abd47f65ab00529e784a81776d558f3fb9565ec4"
+  },
+  "runtimeProof": {
+    "xzsSampleImportMessage": "成功导入 1 道题",
+    "questionCountAfterSampleImport": 2398,
+    "packCountAfterSampleImport": 6
+  },
+  "validation": {
+    "unitTests": "15 passed",
+    "e2eTests": "3 passed",
+    "lint": "passed",
+    "productionBuild": "passed",
+    "pwaPrecache": "13 entries, 3456.33 KiB"
+  },
+  "evidence": [
+    "docs/OSS_BASELINE.md",
+    "upstream/upstream-lock.json",
+    "src/integrations/xzs.ts",
+    "docs/examples/xzs-single-choice-export.json",
+    "artifacts/oss-base-candidate-metadata.json"
+  ]
+}

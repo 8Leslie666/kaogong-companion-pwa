@@ -1,0 +1,956 @@
+﻿[
+    {
+        "repo":  "conductor-oss/conductor",
+        "url":  "https://github.com/conductor-oss/conductor",
+        "stars":  32043,
+        "license":  "Apache-2.0",
+        "pushed":  "2026-07-30T00:54:02Z",
+        "language":  "Java",
+        "description":  "Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents"
+    },
+    {
+        "repo":  "mlc-ai/web-llm",
+        "url":  "https://github.com/mlc-ai/web-llm",
+        "stars":  18476,
+        "license":  "Apache-2.0",
+        "pushed":  "2026-06-09T03:38:30Z",
+        "language":  "TypeScript",
+        "description":  "High-performance In-browser LLM Inference Engine "
+    },
+    {
+        "repo":  "vuejs/vuefire",
+        "url":  "https://github.com/vuejs/vuefire",
+        "stars":  3908,
+        "license":  "MIT",
+        "pushed":  "2026-04-15T15:00:14Z",
+        "language":  "TypeScript",
+        "description":  "🔥 Firebase bindings for Vue.js"
+    },
+    {
+        "repo":  "remotestorage/remotestorage.js",
+        "url":  "https://github.com/remotestorage/remotestorage.js",
+        "stars":  2417,
+        "license":  "MIT",
+        "pushed":  "2026-06-23T07:37:00Z",
+        "language":  "JavaScript",
+        "description":  "⬡ JavaScript client library for integrating remoteStorage in apps"
+    },
+    {
+        "repo":  "xdan/jodit",
+        "url":  "https://github.com/xdan/jodit",
+        "stars":  1945,
+        "license":  "MIT",
+        "pushed":  "2026-07-27T05:26:10Z",
+        "language":  "JavaScript",
+        "description":  "Jodit - Best WYSIWYG Editor for You"
+    },
+    {
+        "repo":  "ranuts/document",
+        "url":  "https://github.com/ranuts/document",
+        "stars":  1814,
+        "license":  "AGPL-3.0",
+        "pushed":  "2026-07-25T15:38:54Z",
+        "language":  "JavaScript",
+        "description":  "Perform common file preview and editing via the web."
+    },
+    {
+        "repo":  "FL33TW00D/whisper-turbo",
+        "url":  "https://github.com/FL33TW00D/whisper-turbo",
+        "stars":  1792,
+        "license":  "Apache-2.0",
+        "pushed":  "2024-02-27T14:38:23Z",
+        "language":  "TypeScript",
+        "description":  "Cross-Platform, GPU Accelerated Whisper 🏎️"
+    },
+    {
+        "repo":  "firefox-devtools/profiler",
+        "url":  "https://github.com/firefox-devtools/profiler",
+        "stars":  1515,
+        "license":  "MPL-2.0",
+        "pushed":  "2026-07-29T22:40:31Z",
+        "language":  "TypeScript",
+        "description":  "Firefox Profiler — Web app for Firefox performance analysis"
+    },
+    {
+        "repo":  "antvis/AVA",
+        "url":  "https://github.com/antvis/AVA",
+        "stars":  1499,
+        "license":  "MIT",
+        "pushed":  "2026-06-09T02:09:02Z",
+        "language":  "TypeScript",
+        "description":  "🤖 AI-native Visual Analytics framework build for agents."
+    },
+    {
+        "repo":  "fireproof-storage/fireproof",
+        "url":  "https://github.com/fireproof-storage/fireproof",
+        "stars":  973,
+        "license":  "Apache-2.0",
+        "pushed":  "2026-05-07T21:41:17Z",
+        "language":  "TypeScript",
+        "description":  "The vibe coding database runs in the browser, fits in the context window, and syncs anywhere."
+    },
+    {
+        "repo":  "panva/oauth4webapi",
+        "url":  "https://github.com/panva/oauth4webapi",
+        "stars":  767,
+        "license":  "MIT",
+        "pushed":  "2026-07-18T19:35:20Z",
+        "language":  "TypeScript",
+        "description":  "Low-Level OAuth 2 / OpenID Connect Client API for JavaScript Runtimes"
+    },
+    {
+        "repo":  "logux/client",
+        "url":  "https://github.com/logux/client",
+        "stars":  745,
+        "license":  "MIT",
+        "pushed":  "2026-07-29T21:34:29Z",
+        "language":  "TypeScript",
+        "description":  "Logux base components to build web client"
+    },
+    {
+        "repo":  "Dancode-188/synckit",
+        "url":  "https://github.com/Dancode-188/synckit",
+        "stars":  662,
+        "license":  "MIT",
+        "pushed":  "2026-07-27T14:14:48Z",
+        "language":  "TypeScript",
+        "description":  " Local-first collaboration SDK for React, Vue, and Svelte. Batteries-included: Rich text, undo/redo, cursors, and presence."
+    },
+    {
+        "repo":  "CapeAga/bai-it",
+        "url":  "https://github.com/CapeAga/bai-it",
+        "stars":  583,
+        "license":  "NOASSERTION",
+        "pushed":  "2026-04-22T16:46:10Z",
+        "language":  "TypeScript",
+        "description":  "掰it — Chrome extension for English reading comprehension. Break long sentences into chunks, learn vocabulary in context."
+    },
+    {
+        "repo":  "WhiteSevs/TamperMonkeyScript",
+        "url":  "https://github.com/WhiteSevs/TamperMonkeyScript",
+        "stars":  484,
+        "license":  "GPL-3.0",
+        "pushed":  "2026-07-27T16:00:14Z",
+        "language":  "TypeScript",
+        "description":  "自用油猴脚本"
+    },
+    {
+        "repo":  "ionic-team/ionic-storage",
+        "url":  "https://github.com/ionic-team/ionic-storage",
+        "stars":  458,
+        "license":  "MIT",
+        "pushed":  "2024-03-30T03:01:17Z",
+        "language":  "TypeScript",
+        "description":  "Ionic Storage module for Ionic apps"
+    },
+    {
+        "repo":  "signalstickers/signalstickers",
+        "url":  "https://github.com/signalstickers/signalstickers",
+        "stars":  405,
+        "license":  "GPL-3.0",
+        "pushed":  "2026-05-29T16:40:48Z",
+        "language":  "TypeScript",
+        "description":  "🖥📱 An unofficial gallery of stickers for Signal, the secure messenger! "
+    },
+    {
+        "repo":  "jin-zi-xuan/kaobuddy-pwa",
+        "url":  "https://github.com/jin-zi-xuan/kaobuddy-pwa",
+        "stars":  347,
+        "license":  null,
+        "pushed":  "2026-06-26T14:23:14Z",
+        "language":  "TypeScript",
+        "description":  "一个帮你临时抱佛脚的项目"
+    },
+    {
+        "repo":  "Kinto/kinto.js",
+        "url":  "https://github.com/Kinto/kinto.js",
+        "stars":  329,
+        "license":  "NOASSERTION",
+        "pushed":  "2026-07-29T10:33:46Z",
+        "language":  "TypeScript",
+        "description":  "An Offline-First JavaScript Client for Kinto."
+    },
+    {
+        "repo":  "personalizedrefrigerator/js-draw",
+        "url":  "https://github.com/personalizedrefrigerator/js-draw",
+        "stars":  294,
+        "license":  "MIT",
+        "pushed":  "2026-03-31T22:49:27Z",
+        "language":  "TypeScript",
+        "description":  "Draw pictures using a pen, touchscreen, or mouse! JS-draw is a freehand drawing library for JavaScript and TypeScript."
+    },
+    {
+        "repo":  "xckevin/magic-english-buddy",
+        "url":  "https://github.com/xckevin/magic-english-buddy",
+        "stars":  282,
+        "license":  "NOASSERTION",
+        "pushed":  "2026-01-07T11:40:47Z",
+        "language":  "TypeScript",
+        "description":  "专为儿童设计的 AI 英语阅读学习助手"
+    },
+    {
+        "repo":  "oliver-oloughlin/kvdex",
+        "url":  "https://github.com/oliver-oloughlin/kvdex",
+        "stars":  249,
+        "license":  "MIT",
+        "pushed":  "2026-07-08T20:03:41Z",
+        "language":  "TypeScript",
+        "description":  "A high-level abstraction layer for Deno KV with zero third-party dependencies by default 🦕🗝️"
+    },
+    {
+        "repo":  "rsms/scripter",
+        "url":  "https://github.com/rsms/scripter",
+        "stars":  205,
+        "license":  "MIT",
+        "pushed":  "2023-04-05T23:21:17Z",
+        "language":  "JavaScript",
+        "description":  "The Scripter Figma plugin"
+    },
+    {
+        "repo":  "oddsdk/ts-odd",
+        "url":  "https://github.com/oddsdk/ts-odd",
+        "stars":  181,
+        "license":  "Apache-2.0",
+        "pushed":  "2023-10-16T15:14:10Z",
+        "language":  "TypeScript",
+        "description":  "An SDK for building apps with decentralized identity and storage."
+    },
+    {
+        "repo":  "kaltura/playkit-js",
+        "url":  "https://github.com/kaltura/playkit-js",
+        "stars":  131,
+        "license":  "AGPL-3.0",
+        "pushed":  "2026-07-29T07:03:41Z",
+        "language":  "TypeScript",
+        "description":  "State of the Art HTML5 Player"
+    },
+    {
+        "repo":  "yankouskia/is-incognito-mode",
+        "url":  "https://github.com/yankouskia/is-incognito-mode",
+        "stars":  130,
+        "license":  "MIT",
+        "pushed":  "2026-07-27T12:03:20Z",
+        "language":  "TypeScript",
+        "description":  "Identify whether browser is in incognito mode 👀"
+    },
+    {
+        "repo":  "subframe7536/sqlite-wasm",
+        "url":  "https://github.com/subframe7536/sqlite-wasm",
+        "stars":  40,
+        "license":  "MIT",
+        "pushed":  "2026-07-08T12:59:48Z",
+        "language":  "JavaScript",
+        "description":  "Simple util to use SQLite in browser, persist data to IndexedDB or OPFS, support FTS5 and UPDATE / DELETE LIMIT"
+    },
+    {
+        "repo":  "hwttop5/ielts-reading-past-papers",
+        "url":  "https://github.com/hwttop5/ielts-reading-past-papers",
+        "stars":  34,
+        "license":  "GPL-3.0",
+        "pushed":  "2026-07-03T18:28:41Z",
+        "language":  "JavaScript",
+        "description":  "一个面向雅思阅读备考的 Web 应用，民间题库与 AI 助教助力高效备考。|  A web app for IELTS Reading prep, built around a community question bank and an AI coach. "
+    },
+    {
+        "repo":  "kavigupta/urbanstats",
+        "url":  "https://github.com/kavigupta/urbanstats",
+        "stars":  27,
+        "license":  "AGPL-3.0",
+        "pushed":  "2026-07-29T23:20:45Z",
+        "language":  "TypeScript",
+        "description":  "A website for viewing statistics of various areas in the United States."
+    },
+    {
+        "repo":  "changzhn/answer-card",
+        "url":  "https://github.com/changzhn/answer-card",
+        "stars":  25,
+        "license":  null,
+        "pushed":  "2024-09-11T18:09:44Z",
+        "language":  "TypeScript",
+        "description":  "一个答题卡的设计器"
+    },
+    {
+        "repo":  "aaronhuggins/indexeddb",
+        "url":  "https://github.com/aaronhuggins/indexeddb",
+        "stars":  17,
+        "license":  "MIT",
+        "pushed":  "2022-08-18T22:07:24Z",
+        "language":  "TypeScript",
+        "description":  "IndexedDB for Deno"
+    },
+    {
+        "repo":  "mycelial-systems/mergeparty",
+        "url":  "https://github.com/mycelial-systems/mergeparty",
+        "stars":  8,
+        "license":  "NOASSERTION",
+        "pushed":  "2026-02-01T11:52:29Z",
+        "language":  "TypeScript",
+        "description":  "Partykit + automerge"
+    },
+    {
+        "repo":  "chenwenhang/TestOnlineSystem",
+        "url":  "https://github.com/chenwenhang/TestOnlineSystem",
+        "stars":  4,
+        "license":  "Apache-2.0",
+        "pushed":  "2019-11-09T12:34:30Z",
+        "language":  "CSS",
+        "description":  "An online test system based on  angular, ng-alain, nodejs and mongodb."
+    },
+    {
+        "repo":  "evgenyvinnik/MCPlator",
+        "url":  "https://github.com/evgenyvinnik/MCPlator",
+        "stars":  3,
+        "license":  "MIT",
+        "pushed":  "2026-07-28T04:48:22Z",
+        "language":  "TypeScript",
+        "description":  "MCP + Calculator"
+    },
+    {
+        "repo":  "FanRec/MoeReview",
+        "url":  "https://github.com/FanRec/MoeReview",
+        "stars":  3,
+        "license":  "GPL-3.0",
+        "pushed":  "2026-07-21T12:58:38Z",
+        "language":  "TypeScript",
+        "description":  "| 快速学习 | 速成期末 |给 MCP Agent 用的本地优先学习工作台。 让 Agent 负责思考，让浏览器负责稳定承载学习流程。 | MoeReview is a local-first learning workspace for MCP-capable AI agents."
+    },
+    {
+        "repo":  "MindFlowInteractive/LogiQuest",
+        "url":  "https://github.com/MindFlowInteractive/LogiQuest",
+        "stars":  3,
+        "license":  null,
+        "pushed":  "2025-05-04T06:46:36Z",
+        "language":  "TypeScript",
+        "description":  "LogiQuest is a brain-challenging, single-player puzzle game that tests your logical reasoning and problem-solving skills. Explore a series of cause-and-effect puzzles, unlock Starknet-based rewards, and prove your mastery over logic and science. Play, solve, and earn on-chain achievements as NFTs, and dive into the world of logic like never before"
+    },
+    {
+        "repo":  "absar091/quizzicallabsai",
+        "url":  "https://github.com/absar091/quizzicallabsai",
+        "stars":  3,
+        "license":  null,
+        "pushed":  "2026-03-29T16:38:49Z",
+        "language":  "TypeScript",
+        "description":  " AI-powered quiz \u0026 study platform with live exams, analytics, and leaderboards. . Smarter exam prep with adaptive quizzes, progress tracking \u0026 achievements. . Real-time multiplayer quizzes, streaks, analytics \u0026 AI-driven learning. . Quiz, learn, and compete — AI-powered study platform for students. . Exam prep made smarter: live quizzes\""
+    },
+    {
+        "repo":  "LSCube7/henguren_toolbox",
+        "url":  "https://github.com/LSCube7/henguren_toolbox",
+        "stars":  3,
+        "license":  "MIT",
+        "pushed":  "2026-07-28T12:04:09Z",
+        "language":  "TypeScript",
+        "description":  "A Next.js toolbox designed for Chinese and English learning during secondary school"
+    },
+    {
+        "repo":  "wayneclub/PassBar",
+        "url":  "https://github.com/wayneclub/PassBar",
+        "stars":  2,
+        "license":  null,
+        "pushed":  "2026-07-29T10:29:47Z",
+        "language":  "TypeScript",
+        "description":  "PassBar is a bar exam practice app for building custom MBE-style question sets, taking tutor or timed sessions, and reviewing explanations."
+    },
+    {
+        "repo":  "andre-dietrich/y-generic",
+        "url":  "https://github.com/andre-dietrich/y-generic",
+        "stars":  2,
+        "license":  "Unlicense",
+        "pushed":  "2026-07-27T10:59:16Z",
+        "language":  "TypeScript",
+        "description":  "A generic synchronization provider for yjs"
+    },
+    {
+        "repo":  "chyinan/IKUN_Manager",
+        "url":  "https://github.com/chyinan/IKUN_Manager",
+        "stars":  2,
+        "license":  null,
+        "pushed":  "2025-08-02T03:37:31Z",
+        "language":  "Vue",
+        "description":  "IKUN Web Manager(A Human Resources Management System) Based on Vue3,Element Plus,TypeScript"
+    },
+    {
+        "repo":  "edwin-navarrete/cybersec_album",
+        "url":  "https://github.com/edwin-navarrete/cybersec_album",
+        "stars":  1,
+        "license":  null,
+        "pushed":  "2025-08-07T20:13:30Z",
+        "language":  "TypeScript",
+        "description":  "Cybersecurity trivia with an album"
+    },
+    {
+        "repo":  "ypyik0669/xiaoxiao-ielts",
+        "url":  "https://github.com/ypyik0669/xiaoxiao-ielts",
+        "stars":  1,
+        "license":  null,
+        "pushed":  "2026-06-25T18:13:51Z",
+        "language":  "TypeScript",
+        "description":  "小小雅思：面向中文学习者的 IELTS 备考 Web 应用"
+    },
+    {
+        "repo":  "on-their-footsteps/on-their-footsteps",
+        "url":  "https://github.com/on-their-footsteps/on-their-footsteps",
+        "stars":  1,
+        "license":  null,
+        "pushed":  "2026-02-13T21:06:04Z",
+        "language":  "JavaScript",
+        "description":  null
+    },
+    {
+        "repo":  "Mai-xiyu/xueke-practice",
+        "url":  "https://github.com/Mai-xiyu/xueke-practice",
+        "stars":  1,
+        "license":  null,
+        "pushed":  "2026-07-09T04:31:34Z",
+        "language":  "TypeScript",
+        "description":  "某南大学的题库（骗你的"
+    },
+    {
+        "repo":  "HyperCharon/hypervoid",
+        "url":  "https://github.com/HyperCharon/hypervoid",
+        "stars":  1,
+        "license":  null,
+        "pushed":  "2026-06-25T17:55:37Z",
+        "language":  "TypeScript",
+        "description":  "Hypervoid — Charon 的个人博客 (Next.js 16 + MDX)"
+    },
+    {
+        "repo":  "mamatechafrica/RafikeyAIChatbot",
+        "url":  "https://github.com/mamatechafrica/RafikeyAIChatbot",
+        "stars":  1,
+        "license":  null,
+        "pushed":  "2025-11-26T04:50:02Z",
+        "language":  "Vue",
+        "description":  "AI-Driven Sexual and Reproductive Health Rights (SRHR) Chatbot"
+    },
+    {
+        "repo":  "rishwanthnetha123-a11y/campushub-offline-learn",
+        "url":  "https://github.com/rishwanthnetha123-a11y/campushub-offline-learn",
+        "stars":  1,
+        "license":  null,
+        "pushed":  "2026-04-05T09:28:10Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "fangmu2/fangmu-pdf-siyuan",
+        "url":  "https://github.com/fangmu2/fangmu-pdf-siyuan",
+        "stars":  1,
+        "license":  "MIT",
+        "pushed":  "2026-03-06T14:11:50Z",
+        "language":  "Vue",
+        "description":  "思源笔记的插件: PDF 标注摘录与思维导图生成工具，支持多 PDF 项目管理、文字/图片摘录、标注级别分类"
+    },
+    {
+        "repo":  "northsea1225/CodeRecall",
+        "url":  "https://github.com/northsea1225/CodeRecall",
+        "stars":  1,
+        "license":  "MIT",
+        "pushed":  "2026-05-17T14:54:11Z",
+        "language":  "Python",
+        "description":  "OI/ACM/LeetCode 智能编程错题本，SM-2 间隔重复 + 6 阶段 AI 深度分析"
+    },
+    {
+        "repo":  "justin-tay/react-indexeddb-example",
+        "url":  "https://github.com/justin-tay/react-indexeddb-example",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2025-04-11T06:08:41Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "frizwan636-dotcom/Copy-of-Rehman-attendence-pro-",
+        "url":  "https://github.com/frizwan636-dotcom/Copy-of-Rehman-attendence-pro-",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-06-08T08:14:20Z",
+        "language":  "TypeScript",
+        "description":  "This app is created for attendance in the school for daily basis "
+    },
+    {
+        "repo":  "LaPingvino/matrix-js-sdk",
+        "url":  "https://github.com/LaPingvino/matrix-js-sdk",
+        "stars":  0,
+        "license":  "Apache-2.0",
+        "pushed":  "2026-07-29T15:14:51Z",
+        "language":  "TypeScript",
+        "description":  "Wally fork of matrix-js-sdk — small targeted fixes intended for upstream PRs"
+    },
+    {
+        "repo":  "ubeshake-41/GlowPedia",
+        "url":  "https://github.com/ubeshake-41/GlowPedia",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-06-09T22:14:14Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "paychex/platform-browser",
+        "url":  "https://github.com/paychex/platform-browser",
+        "stars":  0,
+        "license":  "Apache-2.0",
+        "pushed":  "2022-09-23T19:29:36Z",
+        "language":  "TypeScript",
+        "description":  "Provides agnostic JavaScript functionality for use in all browser-based applications."
+    },
+    {
+        "repo":  "prakhardubey2002/Preact-Missing-Hooks",
+        "url":  "https://github.com/prakhardubey2002/Preact-Missing-Hooks",
+        "stars":  0,
+        "license":  "MIT",
+        "pushed":  "2026-05-21T12:46:22Z",
+        "language":  "TypeScript",
+        "description":  "A lightweight, extensible collection of modern hooks built specifically for Preact (compatible with react too), focused on performance, advanced browser capabilities, and frontend-first architecture. Demo(https://preact-missing-hooks.vercel.app/)"
+    },
+    {
+        "repo":  "848deepak/PathNiti",
+        "url":  "https://github.com/848deepak/PathNiti",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2025-10-04T05:04:47Z",
+        "language":  "TypeScript",
+        "description":  "One Stop Solution for Students "
+    },
+    {
+        "repo":  "ThirdMeta-Dev/donation-portal",
+        "url":  "https://github.com/ThirdMeta-Dev/donation-portal",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-10T10:02:26Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "Pankaj-Joshi-2107/examforge-next",
+        "url":  "https://github.com/Pankaj-Joshi-2107/examforge-next",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-06-12T17:10:04Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "varsha698/Quiz-Generator",
+        "url":  "https://github.com/varsha698/Quiz-Generator",
+        "stars":  0,
+        "license":  "MIT",
+        "pushed":  "2025-11-24T10:21:18Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "tikel1/tuscany-2026",
+        "url":  "https://github.com/tikel1/tuscany-2026",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-29T04:07:14Z",
+        "language":  "TypeScript",
+        "description":  "Personal vacation guide for our August 2026 trip to Tuscany — itinerary, attractions, stays, map (EN/HE)"
+    },
+    {
+        "repo":  "1264337670/ddc",
+        "url":  "https://github.com/1264337670/ddc",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-04-19T16:50:33Z",
+        "language":  "Vue",
+        "description":  "丁晨的设计大赛"
+    },
+    {
+        "repo":  "chi1180/LINEnglish-Web",
+        "url":  "https://github.com/chi1180/LINEnglish-Web",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2025-12-24T08:48:18Z",
+        "language":  "TypeScript",
+        "description":  "Web engine for LINEnglish"
+    },
+    {
+        "repo":  "ukasha-uae/SmartClass24",
+        "url":  "https://github.com/ukasha-uae/SmartClass24",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-03-07T14:22:20Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "sergidt/material-pocs",
+        "url":  "https://github.com/sergidt/material-pocs",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2023-03-24T06:25:20Z",
+        "language":  "TypeScript",
+        "description":  "material-pocs"
+    },
+    {
+        "repo":  "rand777gg/react-practice-web",
+        "url":  "https://github.com/rand777gg/react-practice-web",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-28T20:41:21Z",
+        "language":  "TypeScript",
+        "description":  "A Vite + React practice and exam web app featuring user authentication, timed exam sessions, question management, and admin tools for creating/editing question banks."
+    },
+    {
+        "repo":  "Raydio-X/lawapp",
+        "url":  "https://github.com/Raydio-X/lawapp",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-13T13:17:02Z",
+        "language":  "Vue",
+        "description":  null
+    },
+    {
+        "repo":  "wzmpa18/yandaoAPP",
+        "url":  "https://github.com/wzmpa18/yandaoAPP",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-09T04:38:56Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "tech-webless/ai-concepts-workshop",
+        "url":  "https://github.com/tech-webless/ai-concepts-workshop",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-23T14:01:49Z",
+        "language":  "TypeScript",
+        "description":  "Interactive AI agent concepts workshop for developers"
+    },
+    {
+        "repo":  "chinmaysevak/EduTracker",
+        "url":  "https://github.com/chinmaysevak/EduTracker",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-04-11T18:24:47Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "eranunplugged/up-js-sdk",
+        "url":  "https://github.com/eranunplugged/up-js-sdk",
+        "stars":  0,
+        "license":  "Apache-2.0",
+        "pushed":  "2025-04-10T08:38:28Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "heziheng123/smartLine",
+        "url":  "https://github.com/heziheng123/smartLine",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-29T23:29:53Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "Lumjiel/PBTI",
+        "url":  "https://github.com/Lumjiel/PBTI",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-04-29T14:25:06Z",
+        "language":  "TypeScript",
+        "description":  "🏓 基于乒乓球运动的人格测评。30 道题、26 种人格、雷达图与海报分享。"
+    },
+    {
+        "repo":  "solid-hooks/state",
+        "url":  "https://github.com/solid-hooks/state",
+        "stars":  0,
+        "license":  "MIT",
+        "pushed":  "2024-09-30T01:16:11Z",
+        "language":  "TypeScript",
+        "description":  "Pinia like global state management for solid.js"
+    },
+    {
+        "repo":  "santhoshkumar1204/edunext-backup",
+        "url":  "https://github.com/santhoshkumar1204/edunext-backup",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-06-07T12:10:59Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "caiooliveirac/giro-de-leitos",
+        "url":  "https://github.com/caiooliveirac/giro-de-leitos",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-24T07:36:09Z",
+        "language":  "Python",
+        "description":  null
+    },
+    {
+        "repo":  "shawn-shanghai/ErrorQuestionManagement",
+        "url":  "https://github.com/shawn-shanghai/ErrorQuestionManagement",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-06-11T09:58:11Z",
+        "language":  "Python",
+        "description":  null
+    },
+    {
+        "repo":  "queenzzapp-creator/queenzz-v10",
+        "url":  "https://github.com/queenzzapp-creator/queenzz-v10",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2025-09-01T11:12:23Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "MwailaCoding/jifunze",
+        "url":  "https://github.com/MwailaCoding/jifunze",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2025-07-03T07:18:06Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "kitamersion/kita-browser-extension",
+        "url":  "https://github.com/kitamersion/kita-browser-extension",
+        "stars":  0,
+        "license":  "MIT",
+        "pushed":  "2025-11-25T06:56:51Z",
+        "language":  "TypeScript",
+        "description":  "Kita browser extension to effortlessly tracking immersion activities"
+    },
+    {
+        "repo":  "AbukDuot/Initial-software_BridgeHer",
+        "url":  "https://github.com/AbukDuot/Initial-software_BridgeHer",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2025-12-01T09:50:24Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "Kaedeeeeeeeeee/ChatJLPT_frontend",
+        "url":  "https://github.com/Kaedeeeeeeeeee/ChatJLPT_frontend",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2025-12-20T14:08:23Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "samuellukudu/Gemma3n-AI-Explainer",
+        "url":  "https://github.com/samuellukudu/Gemma3n-AI-Explainer",
+        "stars":  0,
+        "license":  "MIT",
+        "pushed":  "2025-08-07T03:44:18Z",
+        "language":  "Python",
+        "description":  "Offline LLM (Gemma 3n) powered APP"
+    },
+    {
+        "repo":  "jjsanchezramirez/pathology-bites",
+        "url":  "https://github.com/jjsanchezramirez/pathology-bites",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-13T06:27:14Z",
+        "language":  "TypeScript",
+        "description":  "PathologyBites is a modern web application providing a comprehensive pathology education platform, powered by AI and completely free to use."
+    },
+    {
+        "repo":  "LWSMarketing/lab-ess-headless",
+        "url":  "https://github.com/LWSMarketing/lab-ess-headless",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-04-06T17:04:23Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "PeterTheMango/StudyGenius",
+        "url":  "https://github.com/PeterTheMango/StudyGenius",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-03-15T20:06:22Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "sumayaabdirizak/campus-connect-dashboard",
+        "url":  "https://github.com/sumayaabdirizak/campus-connect-dashboard",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-05T14:19:05Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "astrobsm/nursing-studentsunth",
+        "url":  "https://github.com/astrobsm/nursing-studentsunth",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-02-20T15:37:47Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "samuellukudu/GemmaHackathon",
+        "url":  "https://github.com/samuellukudu/GemmaHackathon",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2025-07-25T01:44:51Z",
+        "language":  "Python",
+        "description":  null
+    },
+    {
+        "repo":  "dasturchioka/aplusacademy-mock-exam",
+        "url":  "https://github.com/dasturchioka/aplusacademy-mock-exam",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-08T20:14:53Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "agservizi/StackForge",
+        "url":  "https://github.com/agservizi/StackForge",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-03-24T21:55:53Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "fmkra/pplka",
+        "url":  "https://github.com/fmkra/pplka",
+        "stars":  0,
+        "license":  "GPL-3.0",
+        "pushed":  "2026-07-28T19:36:43Z",
+        "language":  "TypeScript",
+        "description":  "Website for studying for Private Pilot Licence in Polish"
+    },
+    {
+        "repo":  "helberjf/tutor-professor",
+        "url":  "https://github.com/helberjf/tutor-professor",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-19T01:13:43Z",
+        "language":  "Python",
+        "description":  "AI-powered English tutor for kids — Next.js + FastAPI, Gemini lesson generation, local TTS and spaced repetition."
+    },
+    {
+        "repo":  "queenzzapp-creator/prueba2",
+        "url":  "https://github.com/queenzzapp-creator/prueba2",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2025-08-23T21:26:31Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "TangaHubService/smart-school-fn",
+        "url":  "https://github.com/TangaHubService/smart-school-fn",
+        "stars":  0,
+        "license":  "MIT",
+        "pushed":  "2026-07-11T22:47:05Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "yzsnstotz/drivequiz20251102",
+        "url":  "https://github.com/yzsnstotz/drivequiz20251102",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2025-12-16T03:24:01Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "mikejmckinney/CCTC",
+        "url":  "https://github.com/mikejmckinney/CCTC",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-13T20:07:02Z",
+        "language":  "Shell",
+        "description":  null
+    },
+    {
+        "repo":  "pqasys/langcsebkg5",
+        "url":  "https://github.com/pqasys/langcsebkg5",
+        "stars":  0,
+        "license":  "GPL-3.0",
+        "pushed":  "2025-08-30T14:06:17Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "blockpy-edu/blockpy-v2",
+        "url":  "https://github.com/blockpy-edu/blockpy-v2",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-10T15:43:12Z",
+        "language":  "TypeScript",
+        "description":  "A next generation attempt at BlockPy V2"
+    },
+    {
+        "repo":  "sofian13/cbgames",
+        "url":  "https://github.com/sofian13/cbgames",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-15T22:39:27Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "fairchild-next/fairchild-next",
+        "url":  "https://github.com/fairchild-next/fairchild-next",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-06-09T00:15:42Z",
+        "language":  "TypeScript",
+        "description":  null
+    },
+    {
+        "repo":  "mdhabibullahmahmudncs13/ShikkhaSathi-SCIBITZ-HACKATION",
+        "url":  "https://github.com/mdhabibullahmahmudncs13/ShikkhaSathi-SCIBITZ-HACKATION",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-07-08T17:59:25Z",
+        "language":  "Python",
+        "description":  null
+    },
+    {
+        "repo":  "fongthai/kanji-app",
+        "url":  "https://github.com/fongthai/kanji-app",
+        "stars":  0,
+        "license":  null,
+        "pushed":  "2026-01-29T03:23:36Z",
+        "language":  "TypeScript",
+        "description":  "App for kanji learners - đặc biệt là người Việt "
+    },
+    {
+        "repo":  "AbhinavNivaan/Dockit-MVP-",
+        "url":  null,
+        "stars":  null,
+        "license":  null,
+        "pushed":  null,
+        "language":  null,
+        "description":  null
+    },
+    {
+        "repo":  "linguil/linguil",
+        "url":  null,
+        "stars":  null,
+        "license":  null,
+        "pushed":  null,
+        "language":  null,
+        "description":  null
+    },
+    {
+        "repo":  "ActuarialNotes/Actuarial-Notes-Wiki",
+        "url":  null,
+        "stars":  null,
+        "license":  null,
+        "pushed":  null,
+        "language":  null,
+        "description":  null
+    }
+]

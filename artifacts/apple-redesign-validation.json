@@ -1,0 +1,46 @@
+﻿{
+  "validatedAt": "2026-07-29T23:14:00+08:00",
+  "product": "考公陪跑宝典",
+  "design": "Apple Minimal / SF-style local font stack",
+  "questionBank": {
+    "total": 2397,
+    "previousTotal": 457,
+    "added": 1940,
+    "packs": 5,
+    "byModule": {
+      "政治理论": 295,
+      "常识判断": 979,
+      "言语理解": 415,
+      "数量关系": 90,
+      "判断推理": 476,
+      "资料分析": 142
+    },
+    "openSources": {
+      "C-Eval civil_servant": 52,
+      "CMMLU Chinese Civil Service Exam": 165,
+      "LogiQA 2.0": 1200,
+      "BAAI COIG Exam Instructions": 800
+    }
+  },
+  "validation": {
+    "unitTests": "13 passed",
+    "e2eTests": "2 passed",
+    "lint": "passed",
+    "productionBuild": "passed",
+    "pwaPrecacheEntries": 13,
+    "pwaPrecacheKiB": 3447.90,
+    "questionChunkPrecached": true,
+    "indexedDbQuestionCount": 2397,
+    "localHttpStatus": 200,
+    "lanHttpStatus": 200
+  },
+  "runtime": {
+    "desktopUrl": "http://127.0.0.1:4174/",
+    "phoneUrl": "http://192.168.31.10:4174/",
+    "previewPid": 26428
+  },
+  "screenshots": [
+    "artifacts/apple-mobile-home.png",
+    "artifacts/apple-mobile-practice.png"
+  ]
+}

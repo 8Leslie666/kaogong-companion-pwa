@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="116" fill="#173f35"/>
+  <path d="M114 109h284v294H114z" fill="none" stroke="#f7f3e8" stroke-width="18" opacity=".25"/>
+  <path d="M151 154h210M151 358h210" stroke="#d96a42" stroke-width="12" stroke-linecap="round"/>
+  <text x="256" y="319" text-anchor="middle" font-family="STSong,SimSun,serif" font-size="220" font-weight="700" fill="#f7f3e8">公</text>
+</svg>
