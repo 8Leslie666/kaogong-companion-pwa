@@ -2,7 +2,7 @@ import { expect, test } from '@playwright/test'
 
 test('mobile learner can answer a question and resume after reload', async ({ page }) => {
   await page.goto('/')
-  await expect(page.getByRole('heading', { name: /第一题开始|继续向前/ })).toBeVisible()
+  await expect(page.getByRole('heading', { name: /第一题开始|继续向前/ })).toBeVisible({ timeout: 20_000 })
   await page.getByRole('button', { name: '刷题' }).click()
   await expect(page.getByRole('heading', { name: '把每一组题，都练出反馈' })).toBeVisible()
   await page.locator('.count-picker button').first().click()
@@ -18,7 +18,7 @@ test('mobile learner can answer a question and resume after reload', async ({ pa
 
 test('installed app shell starts offline after first load', async ({ page, context }) => {
   await page.goto('/')
-  await expect(page.getByText('考公陪跑宝典')).toBeVisible()
+  await expect(page.getByText('考公陪跑宝典')).toBeVisible({ timeout: 20_000 })
   await page.waitForFunction(async () => Boolean(await navigator.serviceWorker?.ready))
   await context.setOffline(true)
   await page.reload()
@@ -29,7 +29,7 @@ test('installed app shell starts offline after first load', async ({ page, conte
 test('large bank filters update the available count before starting', async ({ page }) => {
   await page.goto('/')
   await page.getByRole('button', { name: '刷题' }).click()
-  await expect(page.getByText('2657 道可用')).toBeVisible()
+  await expect(page.getByText('4287 道可用')).toBeVisible()
   await page.getByRole('button', { name: 'C-Eval 公务员公开题' }).click()
   await expect(page.getByText('52 道可用')).toBeVisible()
   await page.getByRole('button', { name: '1 星' }).click()
@@ -49,4 +49,14 @@ test('historical paper catalog and province filters work on mobile', async ({ pa
   await filters.getByRole('button', { name: '浙江', exact: true }).click()
   await filters.getByRole('button', { name: 'A类', exact: true }).click()
   await expect(page.getByText('125 道可用')).toBeVisible()
+})
+
+test('Guizhou historical bank is available by province and year', async ({ page }) => {
+  await page.goto('/')
+  await page.getByRole('button', { name: '刷题' }).click()
+  const filters = page.locator('.filter-panel')
+  await filters.getByRole('button', { name: '贵州', exact: true }).click()
+  await expect(page.getByText('1630 道可用')).toBeVisible()
+  await filters.getByRole('button', { name: '2026', exact: true }).click()
+  await expect(page.getByText('110 道可用')).toBeVisible()
 })

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T01:36:52.490Z",
+  "generatedAt": "2026-07-30T03:18:20.643Z",
   "reports": [
     {
       "paperId": "1735356969686",
@@ -35,7 +35,8 @@
         "数量关系": 15,
         "判断推理": 35,
         "资料分析": 20
-      }
+      },
+      "readyForBuiltIn": true
     },
     {
       "paperId": "1739531137130",
@@ -71,7 +72,693 @@
         "数量关系": 20,
         "判断推理": 40,
         "资料分析": 15
-      }
+      },
+      "readyForBuiltIn": true
+    },
+    {
+      "paperId": "1775360735545",
+      "title": "2026年贵州省公务员录用考试《行测》题（网友回忆版）",
+      "entry": {
+        "id": "1775360735545",
+        "title": "2026年贵州省公务员录用考试《行测》题（网友回忆版）",
+        "url": "https://gwy.gkzhenti.cn/paper/1775360735545",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1775360735545",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1775360735545",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2026,
+        "variant": "综合卷",
+        "recallEdition": true,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 110,
+      "answerCount": 110,
+      "publishedQuestions": 110,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 110,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 38,
+      "assetFailures": [],
+      "modules": {
+        "政治理论": 10,
+        "常识判断": 10,
+        "言语理解": 26,
+        "数量关系": 14,
+        "判断推理": 30,
+        "资料分析": 20
+      },
+      "readyForBuiltIn": true
+    },
+    {
+      "paperId": "1743902343807",
+      "title": "2025年贵州省公务员录用考试《行测》题（网友回忆版）",
+      "entry": {
+        "id": "1743902343807",
+        "title": "2025年贵州省公务员录用考试《行测》题（网友回忆版）",
+        "url": "https://gwy.gkzhenti.cn/paper/1743902343807",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1743902343807",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1743902343807",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2025,
+        "variant": "综合卷",
+        "recallEdition": true,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 110,
+      "answerCount": 110,
+      "publishedQuestions": 110,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 110,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 42,
+      "assetFailures": [],
+      "modules": {
+        "政治理论": 10,
+        "常识判断": 10,
+        "言语理解": 26,
+        "数量关系": 14,
+        "判断推理": 30,
+        "资料分析": 20
+      },
+      "readyForBuiltIn": true
+    },
+    {
+      "paperId": "1716870707589",
+      "title": "2024年贵州省公务员录用考试《行测》题（网友回忆版）",
+      "entry": {
+        "id": "1716870707589",
+        "title": "2024年贵州省公务员录用考试《行测》题（网友回忆版）",
+        "url": "https://gwy.gkzhenti.cn/paper/1716870707589",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1716870707589",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1716870707589",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2024,
+        "variant": "综合卷",
+        "recallEdition": true,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 110,
+      "answerCount": 110,
+      "publishedQuestions": 110,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 110,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 21,
+      "assetFailures": [],
+      "modules": {
+        "常识判断": 15,
+        "言语理解": 32,
+        "数量关系": 13,
+        "判断推理": 30,
+        "资料分析": 20
+      },
+      "readyForBuiltIn": true
+    },
+    {
+      "paperId": "1678839704231",
+      "title": "2023年贵州省公务员录用考试《行测》题（网友回忆版）",
+      "entry": {
+        "id": "1678839704231",
+        "title": "2023年贵州省公务员录用考试《行测》题（网友回忆版）",
+        "url": "https://gwy.gkzhenti.cn/paper/1678839704231",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1678839704231",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1678839704231",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2023,
+        "variant": "综合卷",
+        "recallEdition": true,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 110,
+      "answerCount": 110,
+      "publishedQuestions": 110,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 110,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 22,
+      "assetFailures": [],
+      "modules": {
+        "常识判断": 15,
+        "言语理解": 36,
+        "数量关系": 12,
+        "判断推理": 32,
+        "资料分析": 15
+      },
+      "readyForBuiltIn": true
+    },
+    {
+      "paperId": "1659959413504",
+      "title": "2022年贵州省公务员录用考试《行测》题（网友回忆版）",
+      "entry": {
+        "id": "1659959413504",
+        "title": "2022年贵州省公务员录用考试《行测》题（网友回忆版）",
+        "url": "https://gwy.gkzhenti.cn/paper/1659959413504",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1659959413504",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1659959413504",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2022,
+        "variant": "综合卷",
+        "recallEdition": true,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 115,
+      "answerCount": 115,
+      "publishedQuestions": 115,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 115,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 16,
+      "assetFailures": [],
+      "modules": {
+        "常识判断": 15,
+        "言语理解": 38,
+        "数量关系": 12,
+        "判断推理": 30,
+        "资料分析": 20
+      },
+      "readyForBuiltIn": true
+    },
+    {
+      "paperId": "1618226336986ytu",
+      "title": "2021年贵州省公务员录用考试《行测》题（网友回忆版）",
+      "entry": {
+        "id": "1618226336986ytu",
+        "title": "2021年贵州省公务员录用考试《行测》题（网友回忆版）",
+        "url": "https://gwy.gkzhenti.cn/paper/1618226336986ytu",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1618226336986ytu",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1618226336986ytu",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2021,
+        "variant": "综合卷",
+        "recallEdition": true,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 115,
+      "answerCount": 115,
+      "publishedQuestions": 115,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 115,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 52,
+      "assetFailures": [],
+      "modules": {
+        "常识判断": 15,
+        "言语理解": 38,
+        "数量关系": 12,
+        "判断推理": 30,
+        "资料分析": 20
+      },
+      "readyForBuiltIn": true
+    },
+    {
+      "paperId": "1600261731744fud",
+      "title": "2020年贵州省公务员录用考试《行测》试题（网友回忆版）",
+      "entry": {
+        "id": "1600261731744fud",
+        "title": "2020年贵州省公务员录用考试《行测》试题（网友回忆版）",
+        "url": "https://gwy.gkzhenti.cn/paper/1600261731744fud",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1600261731744fud",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1600261731744fud",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2020,
+        "variant": "综合卷",
+        "recallEdition": true,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 115,
+      "answerCount": 115,
+      "publishedQuestions": 115,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 115,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 78,
+      "assetFailures": [],
+      "modules": {
+        "常识判断": 15,
+        "言语理解": 40,
+        "数量关系": 10,
+        "判断推理": 30,
+        "资料分析": 20
+      },
+      "readyForBuiltIn": true
+    },
+    {
+      "paperId": "1600261871780fur",
+      "title": "2019年贵州省选调高校优秀毕业生到基层工作考试《行测》试题（网友回忆版）",
+      "entry": {
+        "id": "1600261871780fur",
+        "title": "2019年贵州省选调高校优秀毕业生到基层工作考试《行测》试题（网友回忆版）",
+        "url": "https://gwy.gkzhenti.cn/paper/1600261871780fur",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1600261871780fur",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1600261871780fur",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2019,
+        "variant": "综合卷",
+        "recallEdition": true,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 115,
+      "answerCount": 115,
+      "publishedQuestions": 115,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 115,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 48,
+      "assetFailures": [],
+      "modules": {
+        "常识判断": 15,
+        "言语理解": 40,
+        "数量关系": 10,
+        "判断推理": 30,
+        "资料分析": 20
+      },
+      "readyForBuiltIn": true
+    },
+    {
+      "paperId": "1525868666557",
+      "title": "2018年421联考《行测》真题（贵州卷）（网友回忆版）",
+      "entry": {
+        "id": "1525868666557",
+        "title": "2018年421联考《行测》真题（贵州卷）（网友回忆版）",
+        "url": "https://gwy.gkzhenti.cn/paper/1525868666557",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1525868666557",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1525868666557",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2018,
+        "variant": "综合卷",
+        "recallEdition": true,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 115,
+      "answerCount": 115,
+      "publishedQuestions": 115,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 115,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 95,
+      "assetFailures": [],
+      "modules": {
+        "常识判断": 15,
+        "言语理解": 40,
+        "数量关系": 10,
+        "判断推理": 30,
+        "资料分析": 20
+      },
+      "readyForBuiltIn": true
+    },
+    {
+      "paperId": "160026187178007j",
+      "title": "2018年贵州省选调高校优秀毕业生到基层工作考试《行测》试题（网友回忆版）",
+      "entry": {
+        "id": "160026187178007j",
+        "title": "2018年贵州省选调高校优秀毕业生到基层工作考试《行测》试题（网友回忆版）",
+        "url": "https://gwy.gkzhenti.cn/paper/160026187178007j",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/160026187178007j",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/160026187178007j",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2018,
+        "variant": "综合卷",
+        "recallEdition": true,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 115,
+      "answerCount": 115,
+      "publishedQuestions": 115,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 115,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 84,
+      "assetFailures": [],
+      "modules": {
+        "常识判断": 15,
+        "言语理解": 40,
+        "数量关系": 10,
+        "判断推理": 30,
+        "资料分析": 20
+      },
+      "readyForBuiltIn": true
+    },
+    {
+      "paperId": "1494328991590",
+      "title": "2017年422公务员联考《行测》贵州卷",
+      "entry": {
+        "id": "1494328991590",
+        "title": "2017年422公务员联考《行测》贵州卷",
+        "url": "https://gwy.gkzhenti.cn/paper/1494328991590",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1494328991590",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1494328991590",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2017,
+        "variant": "综合卷",
+        "recallEdition": false,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 120,
+      "answerCount": 120,
+      "publishedQuestions": 120,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 120,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 80,
+      "assetFailures": [],
+      "modules": {
+        "常识判断": 20,
+        "言语理解": 35,
+        "数量关系": 10,
+        "判断推理": 35,
+        "资料分析": 20
+      },
+      "readyForBuiltIn": true
+    },
+    {
+      "paperId": "1600261871780jrj",
+      "title": "2017年贵州省选调高校优秀毕业生到基层工作考试《行测》试题（网友回忆版）",
+      "entry": {
+        "id": "1600261871780jrj",
+        "title": "2017年贵州省选调高校优秀毕业生到基层工作考试《行测》试题（网友回忆版）",
+        "url": "https://gwy.gkzhenti.cn/paper/1600261871780jrj",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1600261871780jrj",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1600261871780jrj",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2017,
+        "variant": "综合卷",
+        "recallEdition": true,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 120,
+      "answerCount": 120,
+      "publishedQuestions": 120,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 120,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 79,
+      "assetFailures": [],
+      "modules": {
+        "常识判断": 20,
+        "言语理解": 35,
+        "数量关系": 10,
+        "判断推理": 35,
+        "资料分析": 20
+      },
+      "readyForBuiltIn": true
+    },
+    {
+      "paperId": "1560255023884kpz",
+      "title": "2016年423联考《行测》真题（贵州卷）",
+      "entry": {
+        "id": "1560255023884kpz",
+        "title": "2016年423联考《行测》真题（贵州卷）",
+        "url": "https://gwy.gkzhenti.cn/paper/1560255023884kpz",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1560255023884kpz",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1560255023884kpz",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2016,
+        "variant": "综合卷",
+        "recallEdition": false,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 119,
+      "answerCount": 120,
+      "publishedQuestions": 119,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 119,
+      "reviewStatus": "待人工复核",
+      "skipped": [
+        {
+          "number": 65,
+          "reason": "missing-options",
+          "optionKeys": []
+        }
+      ],
+      "missingAnswers": [],
+      "assets": 108,
+      "assetFailures": [],
+      "modules": {
+        "常识判断": 20,
+        "言语理解": 35,
+        "数量关系": 9,
+        "判断推理": 35,
+        "资料分析": 20
+      },
+      "readyForBuiltIn": false
+    },
+    {
+      "paperId": "1560255023885yyt",
+      "title": "2015年425联考《行测》真题（贵州卷）",
+      "entry": {
+        "id": "1560255023885yyt",
+        "title": "2015年425联考《行测》真题（贵州卷）",
+        "url": "https://gwy.gkzhenti.cn/paper/1560255023885yyt",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1560255023885yyt",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1560255023885yyt",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2015,
+        "variant": "综合卷",
+        "recallEdition": false,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 55,
+      "answerCount": 120,
+      "publishedQuestions": 55,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 55,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 1,
+      "assetFailures": [],
+      "modules": {
+        "常识判断": 20,
+        "言语理解": 35
+      },
+      "readyForBuiltIn": false
+    },
+    {
+      "paperId": "1471934691465",
+      "title": "2014年412公务员联考《行测》贵州卷",
+      "entry": {
+        "id": "1471934691465",
+        "title": "2014年412公务员联考《行测》贵州卷",
+        "url": "https://gwy.gkzhenti.cn/paper/1471934691465",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1471934691465",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1471934691465",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2014,
+        "variant": "综合卷",
+        "recallEdition": false,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 120,
+      "answerCount": 120,
+      "publishedQuestions": 120,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 120,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 27,
+      "assetFailures": [],
+      "modules": {
+        "常识判断": 20,
+        "言语理解": 35,
+        "数量关系": 10,
+        "判断推理": 35,
+        "资料分析": 20
+      },
+      "readyForBuiltIn": true
+    },
+    {
+      "paperId": "1471934707164",
+      "title": "2010年贵州公务员考试《行测》卷",
+      "entry": {
+        "id": "1471934707164",
+        "title": "2010年贵州公务员考试《行测》卷",
+        "url": "https://gwy.gkzhenti.cn/paper/1471934707164",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1471934707164",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1471934707164",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2010,
+        "variant": "综合卷",
+        "recallEdition": false,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 123,
+      "answerCount": 125,
+      "publishedQuestions": 123,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 123,
+      "reviewStatus": "待人工复核",
+      "skipped": [
+        {
+          "number": 2,
+          "reason": "missing-options",
+          "optionKeys": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 6,
+          "reason": "missing-options",
+          "optionKeys": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      ],
+      "missingAnswers": [],
+      "assets": 31,
+      "assetFailures": [],
+      "modules": {
+        "数量关系": 13,
+        "言语理解": 30,
+        "判断推理": 40,
+        "常识判断": 20,
+        "资料分析": 20
+      },
+      "readyForBuiltIn": false
+    },
+    {
+      "paperId": "1471934722403",
+      "title": "2009年贵州公务员考试《行测》卷",
+      "entry": {
+        "id": "1471934722403",
+        "title": "2009年贵州公务员考试《行测》卷",
+        "url": "https://gwy.gkzhenti.cn/paper/1471934722403",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1471934722403",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1471934722403",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2009,
+        "variant": "综合卷",
+        "recallEdition": false,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 140,
+      "answerCount": 140,
+      "publishedQuestions": 140,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 140,
+      "reviewStatus": "待人工复核",
+      "skipped": [],
+      "missingAnswers": [],
+      "assets": 9,
+      "assetFailures": [],
+      "modules": {
+        "常识判断": 25,
+        "言语理解": 40,
+        "判断推理": 40,
+        "数量关系": 15,
+        "资料分析": 20
+      },
+      "readyForBuiltIn": true
+    },
+    {
+      "paperId": "1471935720659",
+      "title": "2008年贵州公务员考试《行测》卷",
+      "entry": {
+        "id": "1471935720659",
+        "title": "2008年贵州公务员考试《行测》卷",
+        "url": "https://gwy.gkzhenti.cn/paper/1471935720659",
+        "answerUrl": "https://gwy.gkzhenti.cn/answer/1471935720659",
+        "explanationUrl": "https://gwy.gkzhenti.cn/explain/1471935720659",
+        "examType": "省考",
+        "region": "贵州",
+        "year": 2008,
+        "variant": "综合卷",
+        "recallEdition": false,
+        "source": "fenbi"
+      },
+      "parsedQuestions": 87,
+      "answerCount": 88,
+      "publishedQuestions": 87,
+      "answerCoverage": 1,
+      "explanationCoverage": 0,
+      "explanationDrafts": 87,
+      "reviewStatus": "待人工复核",
+      "skipped": [
+        {
+          "number": 7,
+          "reason": "missing-options",
+          "optionKeys": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      ],
+      "missingAnswers": [],
+      "assets": 8,
+      "assetFailures": [],
+      "modules": {
+        "数量关系": 12,
+        "言语理解": 30,
+        "判断推理": 20,
+        "常识判断": 10,
+        "资料分析": 15
+      },
+      "readyForBuiltIn": false
     }
   ]
 }

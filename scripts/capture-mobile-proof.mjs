@@ -13,13 +13,13 @@ const context = await browser.newContext({ viewport: { width: 393, height: 852 }
 const page = await context.newPage()
 await page.goto('http://127.0.0.1:4174/')
 await page.getByRole('button', { name: '刷题' }).click()
-await page.getByText('2657 道可用').waitFor()
+await page.getByText('4287 道可用').waitFor()
 const filters = page.locator('.filter-panel')
-await filters.getByRole('button', { name: '2025', exact: true }).click()
-await filters.getByRole('button', { name: '浙江', exact: true }).click()
-await filters.getByRole('button', { name: 'A类', exact: true }).click()
-await page.getByText('125 道可用').waitFor()
-await filters.screenshot({ path: resolve(output, 'mobile-historical-filters.png') })
+await filters.getByRole('button', { name: '贵州', exact: true }).click()
+await page.getByText('1630 道可用').waitFor()
+await filters.getByRole('button', { name: '2026', exact: true }).click()
+await page.getByText('110 道可用').waitFor()
+await filters.screenshot({ path: resolve(output, 'mobile-guizhou-filters.png') })
 
 const questionId = await page.evaluate(async () => {
   const database = await new Promise((resolveOpen, reject) => {
@@ -30,7 +30,7 @@ const questionId = await page.evaluate(async () => {
   const db = /** @type {IDBDatabase} */ (database)
   const question = await new Promise((resolveQuestion, reject) => {
     const request = db.transaction('questions').objectStore('questions').getAll()
-    request.onsuccess = () => resolveQuestion(request.result.find((item) => item.packId === 'gkzhenti-1735356969686' && item.stem.includes('exam-assets/')))
+    request.onsuccess = () => resolveQuestion(request.result.find((item) => item.packId === 'gkzhenti-1775360735545' && item.stem.includes('exam-assets/')))
     request.onerror = () => reject(request.error)
   })
   if (!question) throw new Error('没有找到带本地图像的真题')
@@ -38,7 +38,7 @@ const questionId = await page.evaluate(async () => {
   await new Promise((resolveWrite, reject) => {
     const transaction = db.transaction('practiceSessions', 'readwrite')
     transaction.objectStore('practiceSessions').put({
-      id: 'proof-historical-image', mode: 'instant', status: 'active', title: '2025 国考真题图文验证',
+      id: 'proof-guizhou-image', mode: 'instant', status: 'active', title: '2026 贵州省考真题图文验证',
       questionIds: [question.id], selectedAnswers: {}, submittedQuestionIds: [], currentIndex: 0,
       elapsedSeconds: 0, startedAt: now, updatedAt: now,
     })
@@ -52,7 +52,7 @@ const questionId = await page.evaluate(async () => {
 await page.reload()
 await page.getByRole('button', { name: /继续上次/ }).click()
 await page.locator('.question-title img').waitFor()
-await page.screenshot({ path: resolve(output, 'mobile-historical-question.png'), fullPage: true })
-await writeFile(resolve(output, 'mobile-proof.json'), JSON.stringify({ capturedAt: new Date().toISOString(), questionId, screenshots: ['mobile-historical-filters.png', 'mobile-historical-question.png'] }, null, 2), 'utf8')
+await page.screenshot({ path: resolve(output, 'mobile-guizhou-question.png'), fullPage: true })
+await writeFile(resolve(output, 'mobile-proof.json'), JSON.stringify({ capturedAt: new Date().toISOString(), questionId, screenshots: ['mobile-guizhou-filters.png', 'mobile-guizhou-question.png'] }, null, 2), 'utf8')
 await browser.close()
 console.log(JSON.stringify({ output, questionId }, null, 2))

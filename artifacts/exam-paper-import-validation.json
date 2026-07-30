@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-30T01:38:31.205Z",
+  "generatedAt": "2026-07-30T03:22:02.033Z",
   "catalog": {
     "total": 722,
     "national": 37,
@@ -35,26 +35,239 @@
       "missingAnswers": 0,
       "skipped": 0,
       "assetFailures": 0
+    },
+    {
+      "paperId": "1775360735545",
+      "title": "2026年贵州省公务员录用考试《行测》题（网友回忆版）",
+      "questions": 110,
+      "answers": 110,
+      "answerCoverage": 1,
+      "explanationDrafts": 110,
+      "reviewStatus": "待人工复核",
+      "assets": 38,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    },
+    {
+      "paperId": "1743902343807",
+      "title": "2025年贵州省公务员录用考试《行测》题（网友回忆版）",
+      "questions": 110,
+      "answers": 110,
+      "answerCoverage": 1,
+      "explanationDrafts": 110,
+      "reviewStatus": "待人工复核",
+      "assets": 42,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    },
+    {
+      "paperId": "1716870707589",
+      "title": "2024年贵州省公务员录用考试《行测》题（网友回忆版）",
+      "questions": 110,
+      "answers": 110,
+      "answerCoverage": 1,
+      "explanationDrafts": 110,
+      "reviewStatus": "待人工复核",
+      "assets": 21,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    },
+    {
+      "paperId": "1678839704231",
+      "title": "2023年贵州省公务员录用考试《行测》题（网友回忆版）",
+      "questions": 110,
+      "answers": 110,
+      "answerCoverage": 1,
+      "explanationDrafts": 110,
+      "reviewStatus": "待人工复核",
+      "assets": 22,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    },
+    {
+      "paperId": "1659959413504",
+      "title": "2022年贵州省公务员录用考试《行测》题（网友回忆版）",
+      "questions": 115,
+      "answers": 115,
+      "answerCoverage": 1,
+      "explanationDrafts": 115,
+      "reviewStatus": "待人工复核",
+      "assets": 16,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    },
+    {
+      "paperId": "1618226336986ytu",
+      "title": "2021年贵州省公务员录用考试《行测》题（网友回忆版）",
+      "questions": 115,
+      "answers": 115,
+      "answerCoverage": 1,
+      "explanationDrafts": 115,
+      "reviewStatus": "待人工复核",
+      "assets": 52,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    },
+    {
+      "paperId": "1600261731744fud",
+      "title": "2020年贵州省公务员录用考试《行测》试题（网友回忆版）",
+      "questions": 115,
+      "answers": 115,
+      "answerCoverage": 1,
+      "explanationDrafts": 115,
+      "reviewStatus": "待人工复核",
+      "assets": 78,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    },
+    {
+      "paperId": "1600261871780fur",
+      "title": "2019年贵州省选调高校优秀毕业生到基层工作考试《行测》试题（网友回忆版）",
+      "questions": 115,
+      "answers": 115,
+      "answerCoverage": 1,
+      "explanationDrafts": 115,
+      "reviewStatus": "待人工复核",
+      "assets": 48,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    },
+    {
+      "paperId": "1525868666557",
+      "title": "2018年421联考《行测》真题（贵州卷）（网友回忆版）",
+      "questions": 115,
+      "answers": 115,
+      "answerCoverage": 1,
+      "explanationDrafts": 115,
+      "reviewStatus": "待人工复核",
+      "assets": 95,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    },
+    {
+      "paperId": "160026187178007j",
+      "title": "2018年贵州省选调高校优秀毕业生到基层工作考试《行测》试题（网友回忆版）",
+      "questions": 115,
+      "answers": 115,
+      "answerCoverage": 1,
+      "explanationDrafts": 115,
+      "reviewStatus": "待人工复核",
+      "assets": 84,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    },
+    {
+      "paperId": "1494328991590",
+      "title": "2017年422公务员联考《行测》贵州卷",
+      "questions": 120,
+      "answers": 120,
+      "answerCoverage": 1,
+      "explanationDrafts": 120,
+      "reviewStatus": "待人工复核",
+      "assets": 80,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    },
+    {
+      "paperId": "1600261871780jrj",
+      "title": "2017年贵州省选调高校优秀毕业生到基层工作考试《行测》试题（网友回忆版）",
+      "questions": 120,
+      "answers": 120,
+      "answerCoverage": 1,
+      "explanationDrafts": 120,
+      "reviewStatus": "待人工复核",
+      "assets": 79,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    },
+    {
+      "paperId": "1471934691465",
+      "title": "2014年412公务员联考《行测》贵州卷",
+      "questions": 120,
+      "answers": 120,
+      "answerCoverage": 1,
+      "explanationDrafts": 120,
+      "reviewStatus": "待人工复核",
+      "assets": 27,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    },
+    {
+      "paperId": "1471934722403",
+      "title": "2009年贵州公务员考试《行测》卷",
+      "questions": 140,
+      "answers": 140,
+      "answerCoverage": 1,
+      "explanationDrafts": 140,
+      "reviewStatus": "待人工复核",
+      "assets": 9,
+      "missingAnswers": 0,
+      "skipped": 0,
+      "assetFailures": 0
+    }
+  ],
+  "reviewOnlyPacks": [
+    {
+      "paperId": "1560255023884kpz",
+      "title": "2016年423联考《行测》真题（贵州卷）",
+      "parsedQuestions": 119,
+      "answerCount": 120,
+      "skipped": 1
+    },
+    {
+      "paperId": "1560255023885yyt",
+      "title": "2015年425联考《行测》真题（贵州卷）",
+      "parsedQuestions": 55,
+      "answerCount": 120,
+      "skipped": 0
+    },
+    {
+      "paperId": "1471934707164",
+      "title": "2010年贵州公务员考试《行测》卷",
+      "parsedQuestions": 123,
+      "answerCount": 125,
+      "skipped": 2
+    },
+    {
+      "paperId": "1471935720659",
+      "title": "2008年贵州公务员考试《行测》卷",
+      "parsedQuestions": 87,
+      "answerCount": 88,
+      "skipped": 1
     }
   ],
   "totals": {
-    "questions": 260,
-    "assets": 87,
-    "assetBytes": 1457205
+    "packs": 16,
+    "questions": 1890,
+    "assets": 778,
+    "assetBytes": 10657566
   },
-  "generatedPackSha256": "1ef134ee24089ef3f26d0140a615ee7b59b137062374e50ed160f77ddde2d6dc",
+  "generatedPackSha256": "9e249e7c4b620245e16253946b0a32cfc9cfeeef103052919a264330f07fb9c5",
   "runtimeProof": {
-    "questionId": "gkzhenti-1735356969686-q-026",
+    "questionId": "gkzhenti-1775360735545-q-053",
     "screenshots": [
-      "artifacts/mobile-historical-filters.png",
-      "artifacts/mobile-historical-question.png"
+      "artifacts/mobile-guizhou-filters.png",
+      "artifacts/mobile-guizhou-question.png"
     ]
   },
   "verification": {
     "unit": "18/18 passed",
-    "e2e": "4/4 passed",
+    "e2e": "5/5 passed",
     "lint": "passed",
     "productionBuild": "passed",
-    "offlinePrecacheEntries": 102
+    "offlinePrecache": "all generated images and question chunks included"
   }
 }

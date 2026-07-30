@@ -10,8 +10,9 @@
 - 申论：6 套原创卷、计时写作、字数提示、自动保存、参考要点和离线量表。
 - 我的：题包题量与许可概览、来源直达、JSON/XLSX 导入、带 SHA-256 校验的版本化备份与恢复、存储占用。
 - PWA：程序外壳、图标和全部内置题包预缓存，首次加载后可断网启动。
-- 历年真题：本地目录已索引 722 套国考/省考试卷（国考 37、省考 685），支持手机端搜索和地区筛选；首批 2025 国考副省级卷 135 题、2025 浙江 A 类卷 125 题已完成题目/答案/题图离线化。
-- 内置内容：180 道原创行测题、6 套原创申论卷、2,217 道开放题源题目、260 道历年真题，共 2,657 道行测题。
+- 历年真题：本地目录已索引 722 套国考/省考试卷（国考 37、省考 685），支持手机端搜索和地区筛选；已离线接入 16 套完整试卷、1,890 道历年真题。
+- 贵州题库：14 套完整贵州省考/选调卷，共 1,630 题；覆盖 2026—2017、2014、2009 年的可完整解析卷，题目、答案和题图均已离线化。
+- 内置内容：180 道原创行测题、6 套原创申论卷、2,217 道开放题源题目、1,890 道历年真题，共 4,287 道行测题。
 
 开放题源包括 C-Eval civil_servant（52 道，CC BY-NC-SA 4.0）、CMMLU Chinese Civil Service Exam（165 道，CC BY-NC 4.0）、LogiQA 2.0（1,200 道，CC BY-NC-SA 4.0）和 BAAI COIG Exam Instructions（800 道，Apache-2.0 / 来源特定条款）。历年卷来自公开真题目录，保留原卷链接、来源和条款字段；首批解析标为草稿，等待逐题复核。
 
@@ -61,7 +62,7 @@ npm run data:refresh-exam-catalog
 npm run data:refresh-exam-pilots
 ```
 
-第一条命令刷新 34 个地区的试卷目录到 `public/exam-paper-catalog.json`；第二条命令解析首批试卷、答案和题图，生成 `src/data/generated/examPacks.ts`、`public/exam-assets/` 以及 `data/review-packs/` 审核报告。题图随 Service Worker 预缓存，飞行模式下仍可显示。
+第一条命令刷新 34 个地区的试卷目录到 `public/exam-paper-catalog.json`；第二条命令解析基础试卷，贵州专项可执行 `npm run data:refresh-guizhou`。流水线生成 `src/data/generated/examPacks.ts`、`public/exam-assets/` 以及 `data/review-packs/` 审核报告。只有题目、答案、选项和图片全部通过校验的试卷会进入内置题库；题图随 Service Worker 预缓存，飞行模式下仍可显示。
 
 生成手机端运行证据：
 

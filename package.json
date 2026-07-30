@@ -13,6 +13,7 @@
     "data:refresh-open": "node scripts/fetch-open-question-packs.mjs",
     "data:refresh-exam-catalog": "node scripts/fetch-exam-paper-catalog.mjs",
     "data:refresh-exam-pilots": "node scripts/fetch-exam-paper-pilots.mjs",
+    "data:refresh-guizhou": "node scripts/fetch-exam-paper-pilots.mjs --region 贵州",
     "proof:mobile": "node scripts/capture-mobile-proof.mjs",
     "validate:exam-packs": "node scripts/validate-exam-import.mjs",
     "preview": "vite preview --host 0.0.0.0"
