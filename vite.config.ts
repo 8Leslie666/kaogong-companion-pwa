@@ -28,11 +28,23 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,jpg,jpeg,gif,webp,json,woff2}'],
+        globIgnores: ['exam-assets/**/*'],
         navigateFallback: 'index.html',
         // The built-in offline question bank is intentionally shipped as a
         // lazy chunk. Keep it in the precache so first-install offline use
         // includes all 2,657 questions rather than only the application shell.
         maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
+        runtimeCaching: [
+          {
+            urlPattern: ({ url }) => url.pathname.includes('/exam-assets/'),
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'exam-question-images-v1',
+              cacheableResponse: { statuses: [0, 200] },
+              expiration: { maxEntries: 1200, maxAgeSeconds: 60 * 60 * 24 * 365 },
+            },
+          },
+        ],
       },
     }),
   ],

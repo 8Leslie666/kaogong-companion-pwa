@@ -60,7 +60,7 @@ const artifact = {
     questionId: mobileProof.questionId,
     screenshots: mobileProof.screenshots.map((path) => `artifacts/${path}`),
   },
-  verification: { unit: '18/18 passed', e2e: '5/5 passed', lint: 'passed', productionBuild: 'passed', offlinePrecache: 'all generated images and question chunks included' },
+  verification: { unit: '18/18 passed', e2e: '5/5 passed', lint: 'passed', productionBuild: 'passed', offlinePrecache: '15 core entries; question images use one-year CacheFirst runtime storage' },
 }
 await mkdir(resolve(root, 'artifacts'), { recursive: true })
 await writeFile(resolve(root, 'artifacts/exam-paper-import-validation.json'), JSON.stringify(artifact, null, 2), 'utf8')

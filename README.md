@@ -62,7 +62,7 @@ npm run data:refresh-exam-catalog
 npm run data:refresh-exam-pilots
 ```
 
-第一条命令刷新 34 个地区的试卷目录到 `public/exam-paper-catalog.json`；第二条命令解析基础试卷，贵州专项可执行 `npm run data:refresh-guizhou`。流水线生成 `src/data/generated/examPacks.ts`、`public/exam-assets/` 以及 `data/review-packs/` 审核报告。只有题目、答案、选项和图片全部通过校验的试卷会进入内置题库；题图随 Service Worker 预缓存，飞行模式下仍可显示。
+第一条命令刷新 34 个地区的试卷目录到 `public/exam-paper-catalog.json`；第二条命令解析基础试卷，贵州专项可执行 `npm run data:refresh-guizhou`。流水线生成 `src/data/generated/examPacks.ts`、`public/exam-assets/` 以及 `data/review-packs/` 审核报告。只有题目、答案、选项和图片全部通过校验的试卷会进入内置题库；题图首次查看后进入一年期离线缓存，避免首次安装同时下载数百张图片。
 
 生成手机端运行证据：
 
